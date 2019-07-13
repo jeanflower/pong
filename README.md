@@ -1,2 +1,2 @@
 # pong
-Pong with Unityt
+Pong with Unity
